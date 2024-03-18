@@ -1,0 +1,27 @@
+body {
+    background-image: url('logrocket.avif');
+  }
+  body {
+    background-image: url('logrocket.avif');
+    background-size: cover;
+  }
+  body {
+    width: 100vw;
+    height: 100vh;
+    background: url('logrocket.avif');
+    background-size: cover;
+  }
+  body {
+    background-image: image-set(
+      'logrocket.avif' 1x,
+      'logrocket.avif' 2x
+    );
+  }
+  body {
+    font-weight: bold;
+    width: 100vw;
+    height: 100vh;
+    background: url('logrocket.avif');
+    background-size: 250px;
+    background-repeat: repeat-x repeat-y;
+  }
